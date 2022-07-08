@@ -1,0 +1,63 @@
+#contato{
+    display: flex;
+    justify-content:space-between ;
+    flex-direction: row;
+    
+}
+#logo{
+    width:50%;
+}
+body{
+    background-color:rgb(231, 231, 231);
+}
+#menu1{
+    list-style: none;
+}
+.link{
+    float:left;
+    padding: 10px;
+}
+.link a{
+    text-decoration: none;
+    font-family: 'Cedarville Cursive', cursive;
+}
+#menu{
+ background-color: rgb(140, 187, 228);
+
+}
+#itn1{
+    border-top: 5px yellow solid;
+    background-color: azure;
+}
+#itn2{
+    border-top: 5px rgb(255, 136, 0) solid;
+    background-color: azure;
+}
+#itn3{
+    border-top: 5px rgb(206, 22, 77) solid;
+    background-color: azure;
+}
+#itn4{
+    border-top: 5px rgb(116, 0, 161) solid;
+    background-color: azure;
+}
+#itn4{
+    border-top: 5px rgb(116, 0, 161) solid;
+    background-color: azure;
+}
+#itn5{
+    border-top: 5px rgb(71, 0, 238) solid;
+    background-color: azure;
+}
+#itn6{
+    border-top: 5px rgb(25, 88, 204) solid;
+    background-color: azure;
+}
+#itn7{
+    border-top: 5px rgb(106, 153, 255) solid;
+    background-color: azure;
+}
+#itn8{
+    border-top: 5px rgb(9, 219, 121) solid;
+    background-color: azure;
+}
